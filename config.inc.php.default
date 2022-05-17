@@ -1,0 +1,7 @@
+<?php
+$redmine_api_url = 'https://redmine-dev.yourip.local';
+$redmine_web_url = 'https://redmine-dev.yourip.local';
+$redmine_api_key = "0000000000000000000000000000000000000000"; // 帳號: readapi
+
+?>
+
